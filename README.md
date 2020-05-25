@@ -4,3 +4,5 @@ Public repository for code modeling the interactions of sticky particles in one-
 ParticleAnalyzer--Object containing various methods for the analyzation of sticky particle sequences
 
 PDF_Generator--Generates probability density function (PDF) for an input sequence length and prints to terminal
+
+Note: Written for Python 2.7
