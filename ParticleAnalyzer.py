@@ -42,7 +42,7 @@ class ParticleAnalyzer:
     ## Turns a sequence of symbols into a list of particles.
     ## Input example '+-0'
     ## Output example [[0.0, 1.0, 1.0], [1.0, 1.0, -1.0], [2.0, 1.0, 0.0]]
-    ## Note the particle lists have the form [position, mass, velocity] in doubles
+    ## Note the particle lists have the form [position, mass, velocity] in floats
     ## Returns a list of particles representing the sequence in [] form
     def symbolToSequence(self,symbols):
 
